@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://andypasic.github.io/example-site"
 languageCode = "en-us"
 title = "Restaurant Theme By Themefisher"
 theme="restaurant-hugo"
